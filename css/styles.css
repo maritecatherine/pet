@@ -7,5 +7,9 @@
 .top img{
     width: 100%;
     position: relative;
-    
+
+}
+.welcome{
+    text-align: center;
+    color: white;
 }
