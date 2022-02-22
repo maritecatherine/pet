@@ -1,0 +1,10 @@
+.top{
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    width: auto;
+}
+.top img{
+    width: 100%;
+    position: relative;
+}
