@@ -1,15 +1,30 @@
 .top{
-    background-attachment: fixed;
-    background-size: cover;
+
+    background-image: url(/images/wallpaper.jpeg);
     position: relative;
-    width: auto;
-}
-.top img{
     width: 100%;
-    position: relative;
+    margin: 0;
+    padding: 0;
+    height: 600px;
+    flex-direction: row;
+    background-size: cover;
 
 }
 .welcome{
     text-align: center;
-    color: white;
+    color: #bfff00;
+    position: relative;
+    
+}
+.welcome h1{
+    top: 142px;
+    font-size: 50px;
+    position: relative;
+}
+.welcome p{
+    top: 143px;
+    font-weight: lighter;
+    position: relative;
+
+
 }
