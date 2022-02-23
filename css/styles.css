@@ -44,3 +44,9 @@ h1{
     padding: 20px;
     
 }
+fieldset{
+    border: 1px solid saddlebrown;
+}
+legend{
+    text-align: center;
+}
