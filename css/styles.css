@@ -50,3 +50,7 @@ fieldset{
 legend{
     text-align: center;
 }
+img{
+    float: center;
+    -ms-flex-item-align: center;
+}
